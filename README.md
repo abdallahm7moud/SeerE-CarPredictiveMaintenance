@@ -60,6 +60,3 @@
 ## 👨‍🎓 Author
 - **Abdallah Mahmoud**  
   [GitHub Profile](https://github.com/abdallahm7moud)
-
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
